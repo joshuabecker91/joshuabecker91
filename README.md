@@ -8,11 +8,7 @@ Hi there, 👋 my name is Joshua Becker and I am a Software Engineer - Full Stac
 
 ⚡ Objective: Looking to join an amazing team where I can be mentored and have room to grow. I would like to contribute my skills and experience to the further growth and sustainability of a company where there is a prosperous career path longer term so that I do not outgrow it quickly.
 
-I am actively seeking a full time position:
-Software Engineering - Full Stack
-Software Engineering - Back End
-Cybersecurity
-Data
+I am actively seeking a full time position: Software Engineering - Full Stack, Software Engineering - Back End, Cybersecurity, Data
 
 My resume can be found on LinkedIn under the featured section. Thank you for your time!
 

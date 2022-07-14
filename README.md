@@ -6,9 +6,7 @@ I have been building full stack applications. Check out some of my projects incl
 
 Looking to join an amazing team where I can be mentored and have room to grow. I would like to contribute my skills and experience to the further growth and sustainability of a company where there is a prosperous career path longer term so that I do not outgrow it quickly.
 
-I am currently proficient in: Python, Flask, MySQL, JS, CSS, HTML, Git, AWS, Bootstrap. I have been practicing Django and React quite a bit as well.
-
-I am familiar with many other technologies, see the full curriculum list on LinkedIn under education section.
+I am currently proficient in: Python, Flask, MySQL, JS, CSS, HTML, Git, AWS, Bootstrap. I have been practicing Django and React quite a bit as well. I am familiar with many other technologies, see the full curriculum list on LinkedIn under education section.
 
 I am actively seeking a full time position:
 Software Engineering - Full Stack

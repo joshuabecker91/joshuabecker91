@@ -2,7 +2,7 @@ Hi there, 👋 my name is Joshua Becker and I am a Software Engineer - Full Stac
 
 ✨I am finishing up my coding bootcamp at Coding Dojo soon and have already completed rigorous full stack training in Web Fundamentals, Python, and Java. I am getting better every day, graduation is fast approaching and I am hungry to land a job before graduation!
 
-🔭 I have been building full stack applications. Check out some of my projects including fhwebsite www.fhspokane.com a real live full stack application that I built which is being used by the church. See more details on LinkedIn and GitHub.
+🔭 I have been building full stack applications. Check out some of my projects including fhwebsite www.fhspokane.com a real live full stack application that I built which is being used by the church. See more details on LinkedIn and GitHub. Another great project to check out is called shows and you can visit the deployment address found on LinkedIn and GitHub. Breif demonstration videos are also available on GitHub for both of these projects.
 
 🌱 I am currently proficient in: Python, Flask, MySQL, JS, CSS, HTML, Git, AWS, Bootstrap. I have been practicing Django and React quite a bit as well. I am familiar with many other technologies, see the full curriculum list on LinkedIn under education section.
 

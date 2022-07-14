@@ -15,7 +15,7 @@ Cybersecurity
 Data
 
 My resume can be found on LinkedIn under the featured section. Thank you for your time!
-📫 How to reach me: joshua.becker91@gmail.com
+Please do not hesitate to reach out: joshua.becker91@gmail.com
 
 <!--
 **joshuabecker91/joshuabecker91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

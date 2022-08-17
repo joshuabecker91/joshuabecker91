@@ -1,4 +1,4 @@
-Hi there, 👋 my name is Joshua Becker and I am a Software Engineer - Full Stack Development: Python, Java, MERN.
+Hi there, 👋 my name is Joshua Becker and I am a Software Engineer - Full Stack Development: Python, MERN, Java.
 
 ✨I am finishing up my coding bootcamp at Coding Dojo soon and have already completed rigorous full stack training in Python, MERN, Java, and Web Fundamentals. I am getting better every day, graduation is fast approaching, and I am hungry to land a job before graduation!
 

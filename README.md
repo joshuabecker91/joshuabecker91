@@ -4,7 +4,7 @@ Hi there, 👋 my name is Joshua Becker and I am a Software Engineer - Full Stac
 
 🔭 Projects: I have been building full stack applications. Check out some of my projects including fhwebsite www.fhspokane.com http://54.241.115.30 a real live full stack application that I built which is being used by the church. Another great project to check out is called shows http://50.18.70.228. You can see more information about both of these projects on both LinkedIn and GitHub. Brief demonstration videos are also available on GitHub for both of these projects.
 
-⚡ Technologies: I am currently proficient in: Python, JavaScript, MySQL, CSS, HTML, Flask, AWS, GitHub, React, Node, Express, MongoDB, Django, Postman, Bootstrap. I am comfortable with many other technologies (see the full curriculum list in my education section on LinkedIn).
+⚡ Technologies: I am currently proficient in: Python, JavaScript, MySQL, CSS, HTML, Flask, AWS, GitHub, React, Node, Express, MongoDB, Django, APIs, Postman, Bootstrap. I am comfortable with many other technologies (see the full curriculum list in my education section on LinkedIn).
 
 🌱 Objective: Looking to join an amazing team where I can be mentored and have room to grow. I would like to contribute my skills and experience to the further growth and sustainability of a company where there is a prosperous long term career path available so that I do not outgrow it quickly.
 

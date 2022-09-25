@@ -6,7 +6,7 @@ Hi there, 👋 my name is Joshua Becker and I am a Software Engineer - Full Stac
 
 🔭 Projects: I have been building full stack applications. Check out some of my projects including: Google Clone with Ads at www.googleclone.com. CodeTube at http://54.153.114.188. Fathers House at www.fhspokane.com. TV Shows at http://50.18.70.228. You can see more information about these projects on both LinkedIn and/or GitHub. Brief demonstration videos are also available on GitHub.
 
-🌱 Objective: Looking to join an amazing team where I can be mentored and have room to grow. I would like to contribute my skills and experience to the further growth and sustainability of a company where there is a prosperous long term career path available so that I do not outgrow it quickly.
+🌱 Objective: Bright and motivated software engineer who is driven for excellence. Looking to join an amazing team where there is room to grow. I would like to contribute my skills and experience to the further growth and sustainability of a company where there is a prosperous long term career path available so that I do not outgrow it quickly.
 
 I am actively seeking a full time position: Software Engineer Full Stack or Back End.
 I am also open to specialized roles in Machine Learning/Artificial Intelligence, Cloud, Cybersecurity, Data.

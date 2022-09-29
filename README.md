@@ -4,7 +4,7 @@ Hi there, 👋 my name is Joshua Becker and I am a Software Engineer - Full Stac
 
 ⚡ Technologies: I am proficient in: Python, JavaScript, React, Flask, Django, Node, Express, MySQL, MongoDB, CSS, HTML, Bootstrap, AWS, GitHub, APIs, Postman. I am comfortable with many other technologies (see the full curriculum list in my education section on LinkedIn).
 
-🔭 Projects: I have been building full stack applications. Check out some of my projects including: Google Clone with Ads at www.googleclone.com. CodeTube at http://54.153.114.188. Fathers House at www.fhspokane.com. TV Shows at http://50.18.70.228. You can see more information about these projects on both LinkedIn and/or GitHub. Brief demonstration videos are also available on GitHub.
+🔭 Projects: I have been building full stack applications. Check out some of my projects including: Google Clone with Ads at www.googleclone.com. CodeTube at www.mycodetube.com. Fathers House at www.fhspokane.com. TV Shows at http://50.18.70.228. You can see more information about these projects on both LinkedIn and/or GitHub. Brief demonstration videos are also available on GitHub.
 
 🌱 Objective: Bright and motivated software engineer who is driven for excellence. Looking to join an amazing team where there is room to grow. I would like to contribute my skills and experience to the further growth and sustainability of a company where there is a prosperous long term career path available so that I do not outgrow it quickly.
 

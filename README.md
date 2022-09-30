@@ -4,7 +4,7 @@ Hi there, 👋 my name is Joshua Becker and I am a Software Engineer - Full Stac
 
 ⚡ Technologies: I am proficient in: Python, JavaScript, React, Flask, Django, Node, Express, MySQL, MongoDB, CSS, HTML, Bootstrap, AWS, Git, GitHub, APIs, Postman. I am comfortable with many other technologies (see the full curriculum list in my education section on LinkedIn).
 
-![My Skills](https://skillicons.dev/icons?i=py,js,react,flask,django,node,express,mysql,mongodb,css,html,bootstrap,aws,git,github,)
+![My Skills](https://skillicons.dev/icons?i=py,js,react,flask,django,node.js,express,mysql,mongodb,css,html,bootstrap,aws,git,github)
 
 🔭 Projects: I have been building full stack applications. Check out some of my projects including: Google Clone with Ads at www.googleclone.com. CodeTube at www.mycodetube.com. Fathers House at www.fhspokane.com. TV Shows at http://50.18.70.228. You can see more information about these projects on both LinkedIn and/or GitHub. Brief demonstration videos are also available on GitHub.
 

@@ -1,14 +1,12 @@
-Hi there, 👋 my name is Joshua Becker and I am a Software Engineer - Full Stack Development: Python, MERN, Java.
+Hi there, 👋 my name is Joshua Becker and I am a Software Engineer - Full Stack Development: Python, JavaScript, React, Django, Node, AWS.
 
-✨I have completed my Full-Stack Software Development Certificate at Coding Dojo and completed rigorous full stack training in Python, MERN, Java, and Web Fundamentals. I am getting better every day, studying data structures and practicing algorithms, and continue to build full stack application personal projects.
+✨I have completed my Full-Stack Software Development Certificate at Coding Dojo and completed rigorous full stack training in Python, MERN, Java, and Web Fundamentals. I currently spend my time studying data structures, practicing algorithms daily, and continue to build full stack application personal projects.
 
 ⚡ Technologies: I am proficient in: Python, JavaScript, React, Flask, Django, Node, Express, MySQL, MongoDB, CSS, HTML, Bootstrap, AWS, Git, GitHub, APIs, Postman. I am comfortable with many other technologies (see the full curriculum list in my education section on LinkedIn). Happy to learn any technologies a company is using that I may not yet be proficient in.
 
 ![My Skills](https://skillicons.dev/icons?i=py,js,react,flask,django,nodejs,express,mysql,mongodb,css,html,bootstrap,aws,git,github)
 
-🔭 Projects: I have been building full stack applications. Check out some of my projects including: Google Clone with Ads at www.googleclone.com. CodeTube at www.mycodetube.com. Fathers House at www.fhspokane.com. TV Shows at http://50.18.70.228. You can see more information about these projects on both LinkedIn and/or GitHub. Brief demonstration videos are also available on GitHub.
-
-🌱 Objective: Bright and motivated software engineer who is driven for excellence. Looking to join an amazing team where there is room to grow. I would like to contribute my skills and experience to the further growth and sustainability of a company where there is a prosperous long term career path available so that I do not outgrow it quickly.
+🌱 Objective: I am a bright and motivated software engineer who is driven for excellence and is passionate about disruptive technology and innovation. I would like to contribute my skills and experience to the further growth and sustainability of a company where there is a prosperous long term career path available so that I do not outgrow it quickly.
 
 I am actively seeking a full time position: Software Engineer Full Stack or Back End.
 I am also open to specialized roles in Machine Learning/Artificial Intelligence, Cloud, Cybersecurity, Data.
@@ -16,7 +14,6 @@ I am also open to specialized roles in Machine Learning/Artificial Intelligence,
 My resume can be found on LinkedIn under the featured section. Thank you for your time!
 
 Please do not hesitate to reach out: joshua.becker91@gmail.com
-
 
 
 https://user-images.githubusercontent.com/98496684/190670744-3f71b52e-ced8-4e79-8ff9-21a2b95db980.mp4

@@ -16,11 +16,12 @@ My resume can be found on LinkedIn under the featured section. Thank you for you
 Please do not hesitate to reach out: joshua.becker91@gmail.com
 
 
+
+https://user-images.githubusercontent.com/98496684/193317733-a46680cb-5b2e-4d1d-beb2-ddf56d4b4ae2.mp4
+
 https://user-images.githubusercontent.com/98496684/190670744-3f71b52e-ced8-4e79-8ff9-21a2b95db980.mp4
 
 https://user-images.githubusercontent.com/98496684/178899425-e19fcc5a-1d15-4ecb-bc7e-7e273b7076a1.mp4
-
-https://user-images.githubusercontent.com/98496684/193317733-a46680cb-5b2e-4d1d-beb2-ddf56d4b4ae2.mp4
 
 https://user-images.githubusercontent.com/98496684/178899534-96712c1a-851c-4e0d-8dd3-f4e2aba11f56.mp4
 

@@ -33,6 +33,8 @@ https://user-images.githubusercontent.com/98496684/178899534-96712c1a-851c-4e0d-
 
 ![databox_logo_lg](https://user-images.githubusercontent.com/98496684/197374503-c799e866-0368-498f-b539-80d75cb11341.png)
 
+![Joshua Becker Techshot 2022](https://user-images.githubusercontent.com/98496684/198850739-fb71f9da-269d-4683-9f13-58067494cbb4.JPG)
+
 <!--
 **joshuabecker91/joshuabecker91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

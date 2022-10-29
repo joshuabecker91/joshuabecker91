@@ -6,6 +6,8 @@ Hi there, 👋 my name is Joshua Becker and I am a Software Engineer - Full Stac
 
 ![My Skills](https://skillicons.dev/icons?i=py,js,react,flask,django,nodejs,express,mysql,mongodb,css,html,bootstrap,aws,git,github)
 
+💻 I am passionate about writing clean, maintainable, scalable code for large scale applications. I love building things, the process of starting with a vision, strategizing, executing, and overcoming challenges. I enjoy the journey and find it incredibly rewarding and fulfilling to see the project come to fruition.
+
 🌱 Summary: Bright and motivated software engineer with a zeal for leveraging technology to improve business processes. Former portfolio manager turned software engineer with ten years experience in finance and business operations. Driven full stack developer passionate about disruptive technology and innovation, collaborating across multi-disciplinary teams.
 
 I am actively seeking a full time position: Software Engineer Full Stack or Back End.

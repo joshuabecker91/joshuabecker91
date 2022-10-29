@@ -1,6 +1,6 @@
 Hi there, 👋 my name is Joshua Becker and I am a Software Engineer - Full Stack Development: Python, JavaScript, React, Django, Node, AWS.
 
-✨I have completed my Full-Stack Software Development Certificate at Coding Dojo with rigorous full stack training in Python, MERN, Java, and Web Fundamentals. I currently spend my time studying data structures, practicing algorithms daily, and continue to build full stack application personal projects and freelance projects.
+✨I have completed my Full-Stack Software Development Certificate at Coding Dojo with rigorous full stack training in Python, MERN, Java, and Web Fundamentals. I currently spend my time studying data structures, practicing algorithms daily, and continue to build full stack application personal and freelance projects.
 
 ⚡ Technologies: I am proficient in: Python, JavaScript, React, Flask, Django, Node, Express, MySQL, MongoDB, CSS, HTML, Bootstrap, AWS, Git, GitHub, APIs, Postman. I am comfortable with many other technologies (see the full curriculum list in my education section on LinkedIn). Happy to learn any technologies a company is using that I may not yet be proficient in.
 

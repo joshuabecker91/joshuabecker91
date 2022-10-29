@@ -1,12 +1,12 @@
-Hi there, 👋 my name is Joshua Becker and I am a Software Engineer - Full Stack Development: Python, JavaScript, React, Django, Node, AWS.
+Hi there, 👋 my name is Joshua Becker and I am a Software Engineer - Full Stack Development: Python, JavaScript, React, Django, Node, AWS. I have completed my Full-Stack Software Development Certificate at Coding Dojo with rigorous full stack training in Python, MERN, Java, and Web Fundamentals. 
 
-✨I have completed my Full-Stack Software Development Certificate at Coding Dojo with rigorous full stack training in Python, MERN, Java, and Web Fundamentals. I currently spend my time studying data structures, practicing algorithms daily, and continue to build full stack application personal and freelance projects.
+✨ I currently spend my time studying data structures, practicing algorithms daily, and continue to build full stack application personal and freelance projects.
 
 ⚡ Technologies: I am proficient in: Python, JavaScript, React, Flask, Django, Node, Express, MySQL, MongoDB, CSS, HTML, Bootstrap, AWS, Git, GitHub, APIs, Postman. I am comfortable with many other technologies (see the full curriculum list in my education section on LinkedIn). Happy to learn any technologies a company is using that I may not yet be proficient in.
 
 ![My Skills](https://skillicons.dev/icons?i=py,js,react,flask,django,nodejs,express,mysql,mongodb,css,html,bootstrap,aws,git,github)
 
-🌱 Objective: I am a bright and motivated software engineer who is driven for excellence and is passionate about disruptive technology and innovation. I would like to contribute my skills and experience to the further growth and sustainability of a company where there is a prosperous long term career path available.
+🌱 Summary: Bright and motivated software engineer with a zeal for leveraging technology to improve business processes. Former portfolio manager turned software engineer with ten years experience in finance and business operations. Driven full stack developer passionate about disruptive technology and innovation, collaborating across multi-disciplinary teams.
 
 I am actively seeking a full time position: Software Engineer Full Stack or Back End.
 I am also open to specialized roles in Machine Learning/Artificial Intelligence, Cloud, Cybersecurity, Data.

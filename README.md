@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/98496684/178899534-96712c1a-851c-4e0d-
 
 ![image](https://user-images.githubusercontent.com/98496684/191680231-0ed0942b-2e3a-4af0-865b-7ffb3d8e774c.png)
 
-![image](https://user-images.githubusercontent.com/98496684/205575370-0ca6a816-b88d-472b-bfea-5ae0bbbe8c98.png)
+![image](https://user-images.githubusercontent.com/98496684/205575641-4afd1b5a-a44e-4992-9e74-64d46d1804b4.png)
 
 ![image](https://user-images.githubusercontent.com/98496684/188943090-6e14e459-7c79-4c60-b516-a3776c70ace2.png)
 

@@ -22,7 +22,9 @@ Please do not hesitate to reach out: joshua.becker91@gmail.com
 Videos and Screenshots of Projects:
 
 
-CodeTube: https://github.com/joshuabecker91/codetube | www.mycodetube.com
+CodeTube | Full Stack Application w/ Login and Registration, full CRUD with validations and access control using Python/Django, deployed w/AWS EC2
+Technologies used: Python, Django, JS, SQLite, Bcrypt, CSS, Bootstrap, HTML, Git, GitHub, AWS EC2, Route 53
+https://github.com/joshuabecker91/codetube | www.mycodetube.com
 
 https://user-images.githubusercontent.com/98496684/193317733-a46680cb-5b2e-4d1d-beb2-ddf56d4b4ae2.mp4
 
@@ -30,9 +32,13 @@ https://user-images.githubusercontent.com/98496684/193317733-a46680cb-5b2e-4d1d-
 
 ![image](https://user-images.githubusercontent.com/98496684/205575641-4afd1b5a-a44e-4992-9e74-64d46d1804b4.png)
 
+
 --------------------------------------------------------------------------------------------------------------
 
-Google Clone with Ads: https://github.com/joshuabecker91/googleclonewithads | www.googleclone.com
+
+Google Clone with Ads | Full Stack Application w/ CRUD using React, Node, Express, MongoDB, Mongoose, Axios, API, deployed w/AWS EC2
+Technologies used: React, Node, Express, MongoDB, Mongoose, Axios, API, HTML, CSS, JS, Material UI, Bootstrap, AWS EC2, AWS Route 53
+https://github.com/joshuabecker91/googleclonewithads | www.googleclone.com
 
 https://user-images.githubusercontent.com/98496684/190670744-3f71b52e-ced8-4e79-8ff9-21a2b95db980.mp4
 
@@ -42,25 +48,38 @@ https://user-images.githubusercontent.com/98496684/190670744-3f71b52e-ced8-4e79-
 
 --------------------------------------------------------------------------------------------------------------
 
-Fathers House: https://github.com/joshuabecker91/fhwebsite | www.fhspokane.com
+
+Fathers House | Full Stack Application Responsive Website (mobile friendly) using Python/Flask deployed w/AWS EC2
+Technologies used: Python, Flask, JS, CSS, Bootstrap, HTML, API Integration, AWS EC2, Route 53
+https://github.com/joshuabecker91/fhwebsite | www.fhspokane.com
 
 https://user-images.githubusercontent.com/98496684/178899425-e19fcc5a-1d15-4ecb-bc7e-7e273b7076a1.mp4
 
+
 --------------------------------------------------------------------------------------------------------------
 
-TV Shows: https://github.com/joshuabecker91/shows | http://50.18.70.228
+
+TV Shows | Full Stack Application w/ Login and Registration, full CRUD and access control using Python/Flask deployed w/ AWS EC2
+Technologies used: Python, Flask, MySQL, Bcrypt, Jinja, Validations, JS, CSS, Bootstrap, HTML, AWS EC2
+https://github.com/joshuabecker91/shows | http://50.18.70.228
 
 https://user-images.githubusercontent.com/98496684/178899534-96712c1a-851c-4e0d-8dd3-f4e2aba11f56.mp4
 
+
 --------------------------------------------------------------------------------------------------------------
 
-Databox: https://github.com/joshuabecker91/databox
+
+Databox | Full Stack Application w/ Login and Registration, full CRUD with validations and access control, S3 file storage, and API payment for membership subscription using Python/Django/React
+Technologies used: Python, Django, React, MySQL, AWS S3 Bucket, AWS EC2, Route 53, API, Git, GitHub
+https://github.com/joshuabecker91/databox | currently in development
 
 ![databox_logo_lg](https://user-images.githubusercontent.com/98496684/197374503-c799e866-0368-498f-b539-80d75cb11341.png)
 
 ![image](https://user-images.githubusercontent.com/98496684/205574800-b10eca7d-1f9a-4af7-8b99-986cf6c15d52.png)
 
+
 --------------------------------------------------------------------------------------------------------------
+
 
 Automation with Python projects:
 
@@ -72,7 +91,9 @@ https://github.com/joshuabecker91/speech_stock_api
 
 https://github.com/joshuabecker91/stock_api_call_csv_export
 
+
 --------------------------------------------------------------------------------------------------------------
+
 
 ![Joshua Becker Techshot 2022](https://user-images.githubusercontent.com/98496684/198850821-d3dc6069-4688-404f-97fa-157f493a4dae.jpg)
 

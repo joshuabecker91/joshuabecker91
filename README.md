@@ -21,13 +21,14 @@ Please do not hesitate to reach out: joshua.becker91@gmail.com
 
 Videos and Screenshots of Projects:
 
+
 CodeTube: https://github.com/joshuabecker91/codetube | mycodetube.com
 
 https://user-images.githubusercontent.com/98496684/193317733-a46680cb-5b2e-4d1d-beb2-ddf56d4b4ae2.mp4
 
-![image](https://user-images.githubusercontent.com/98496684/188943090-6e14e459-7c79-4c60-b516-a3776c70ace2.png)
+![image](https://user-images.githubusercontent.com/98496684/191680231-0ed0942b-2e3a-4af0-865b-7ffb3d8e774c.png)
 
-![image](https://user-images.githubusercontent.com/98496684/189730273-681831d0-cf0d-4df1-914a-5edfd10a9f0e.png)
+![image](https://user-images.githubusercontent.com/98496684/205575641-4afd1b5a-a44e-4992-9e74-64d46d1804b4.png)
 
 
 
@@ -35,9 +36,9 @@ Google Clone with Ads: https://github.com/joshuabecker91/googleclonewithads | go
 
 https://user-images.githubusercontent.com/98496684/190670744-3f71b52e-ced8-4e79-8ff9-21a2b95db980.mp4
 
-![image](https://user-images.githubusercontent.com/98496684/191680231-0ed0942b-2e3a-4af0-865b-7ffb3d8e774c.png)
+![image](https://user-images.githubusercontent.com/98496684/188943090-6e14e459-7c79-4c60-b516-a3776c70ace2.png)
 
-![image](https://user-images.githubusercontent.com/98496684/205575641-4afd1b5a-a44e-4992-9e74-64d46d1804b4.png)
+![image](https://user-images.githubusercontent.com/98496684/189730273-681831d0-cf0d-4df1-914a-5edfd10a9f0e.png)
 
 
 

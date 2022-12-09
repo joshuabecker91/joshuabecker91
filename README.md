@@ -13,7 +13,7 @@ Hi there, 👋 my name is Joshua Becker and I am a Software Engineer - Full Stac
 I am actively seeking a full time position: Software Engineer Full Stack or Back End.
 I am also open to specialized roles in Machine Learning/Artificial Intelligence, Cloud, Cybersecurity, Data.
 
-My resume can be found on LinkedIn under the featured section. Thank you for your time!
+:page_facing_up: My resume can be found on LinkedIn under the featured section. Thank you for your time!
 
 Please do not hesitate to reach out: joshua.becker91@gmail.com
 

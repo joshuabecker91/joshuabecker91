@@ -41,11 +41,17 @@ https://user-images.githubusercontent.com/98496684/178899534-96712c1a-851c-4e0d-
 
 ![Joshua Becker Techshot 2022](https://user-images.githubusercontent.com/98496684/198850821-d3dc6069-4688-404f-97fa-157f493a4dae.jpg)
 
+
 Automation with Python projects:
+
 https://github.com/joshuabecker91/web_scraping_python
+
 https://github.com/joshuabecker91/audio_mic_transcribe
+
 https://github.com/joshuabecker91/speech_stock_api
+
 https://github.com/joshuabecker91/stock_api_call_csv_export
+
 
 <!--
 **joshuabecker91/joshuabecker91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

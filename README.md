@@ -22,7 +22,7 @@ Please do not hesitate to reach out: joshua.becker91@gmail.com
 Videos and Screenshots of Projects:
 
 
-CodeTube: https://github.com/joshuabecker91/codetube | mycodetube.com
+CodeTube: https://github.com/joshuabecker91/codetube | www.mycodetube.com
 
 https://user-images.githubusercontent.com/98496684/193317733-a46680cb-5b2e-4d1d-beb2-ddf56d4b4ae2.mp4
 
@@ -30,9 +30,9 @@ https://user-images.githubusercontent.com/98496684/193317733-a46680cb-5b2e-4d1d-
 
 ![image](https://user-images.githubusercontent.com/98496684/205575641-4afd1b5a-a44e-4992-9e74-64d46d1804b4.png)
 
+--------------------------------------------------------------------------------------------------------------
 
-
-Google Clone with Ads: https://github.com/joshuabecker91/googleclonewithads | googleclone.com
+Google Clone with Ads: https://github.com/joshuabecker91/googleclonewithads | www.googleclone.com
 
 https://user-images.githubusercontent.com/98496684/190670744-3f71b52e-ced8-4e79-8ff9-21a2b95db980.mp4
 
@@ -40,19 +40,19 @@ https://user-images.githubusercontent.com/98496684/190670744-3f71b52e-ced8-4e79-
 
 ![image](https://user-images.githubusercontent.com/98496684/189730273-681831d0-cf0d-4df1-914a-5edfd10a9f0e.png)
 
+--------------------------------------------------------------------------------------------------------------
 
-
-Fathers House: https://github.com/joshuabecker91/fhwebsite | fhspokane.com
+Fathers House: https://github.com/joshuabecker91/fhwebsite | www.fhspokane.com
 
 https://user-images.githubusercontent.com/98496684/178899425-e19fcc5a-1d15-4ecb-bc7e-7e273b7076a1.mp4
 
-
+--------------------------------------------------------------------------------------------------------------
 
 TV Shows: https://github.com/joshuabecker91/shows | http://50.18.70.228
 
 https://user-images.githubusercontent.com/98496684/178899534-96712c1a-851c-4e0d-8dd3-f4e2aba11f56.mp4
 
-
+--------------------------------------------------------------------------------------------------------------
 
 Databox: https://github.com/joshuabecker91/databox
 
@@ -60,7 +60,7 @@ Databox: https://github.com/joshuabecker91/databox
 
 ![image](https://user-images.githubusercontent.com/98496684/205574800-b10eca7d-1f9a-4af7-8b99-986cf6c15d52.png)
 
-
+--------------------------------------------------------------------------------------------------------------
 
 Automation with Python projects:
 
@@ -72,7 +72,7 @@ https://github.com/joshuabecker91/speech_stock_api
 
 https://github.com/joshuabecker91/stock_api_call_csv_export
 
-
+--------------------------------------------------------------------------------------------------------------
 
 ![Joshua Becker Techshot 2022](https://user-images.githubusercontent.com/98496684/198850821-d3dc6069-4688-404f-97fa-157f493a4dae.jpg)
 

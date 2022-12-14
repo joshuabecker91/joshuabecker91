@@ -100,6 +100,8 @@ https://github.com/joshuabecker91/speech_stock_api
 
 https://github.com/joshuabecker91/stock_api_call_csv_export
 
+https://github.com/joshuabecker91/youtube_downloader
+
 
 --------------------------------------------------------------------------------------------------------------
 

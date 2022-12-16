@@ -104,6 +104,8 @@ https://github.com/joshuabecker91/youtube_downloader
 
 https://github.com/joshuabecker91/r_squared_pandas
 
+https://github.com/joshuabecker91/r_squared_pandas_yfinance
+
 
 --------------------------------------------------------------------------------------------------------------
 

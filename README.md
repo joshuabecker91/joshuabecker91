@@ -92,6 +92,8 @@ https://github.com/joshuabecker91/databox | currently in development
 
 Automation with Python projects:
 
+https://github.com/joshuabecker91/r_squared_pandas_yfinance
+
 https://github.com/joshuabecker91/web_scraping_python
 
 https://github.com/joshuabecker91/audio_mic_transcribe
@@ -104,7 +106,7 @@ https://github.com/joshuabecker91/youtube_downloader
 
 https://github.com/joshuabecker91/r_squared_pandas
 
-https://github.com/joshuabecker91/r_squared_pandas_yfinance
+https://github.com/joshuabecker91/s3_practice
 
 
 --------------------------------------------------------------------------------------------------------------

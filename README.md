@@ -104,6 +104,8 @@ https://github.com/joshuabecker91/youtube_downloader
 
 https://github.com/joshuabecker91/r_squared_pandas
 
+https://github.com/joshuabecker91/email_automation_python
+
 https://github.com/joshuabecker91/s3_practice
 
 https://github.com/joshuabecker91/r_squared_pandas_yfinance | QCOM CRM example

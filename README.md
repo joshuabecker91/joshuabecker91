@@ -108,9 +108,9 @@ https://github.com/joshuabecker91/email_automation_python
 
 https://github.com/joshuabecker91/s3_practice
 
-https://github.com/joshuabecker91/r_squared_pandas_yfinance | QCOM CRM example
+https://github.com/joshuabecker91/covered_call_signal_pandas_yfinance
 
-![crm_qcom](https://user-images.githubusercontent.com/98496684/208355540-21317328-5fb0-45bf-bb99-b403e6ad2c51.png)
+https://github.com/joshuabecker91/r_squared_pandas_yfinance 
 
 
 --------------------------------------------------------------------------------------------------------------

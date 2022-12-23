@@ -100,11 +100,11 @@ https://github.com/joshuabecker91/speech_stock_api
 
 https://github.com/joshuabecker91/stock_api_call_csv_export
 
-https://github.com/joshuabecker91/youtube_downloader
-
 https://github.com/joshuabecker91/r_squared_pandas
 
 https://github.com/joshuabecker91/email_automation_python
+
+https://github.com/joshuabecker91/youtube_downloader
 
 https://github.com/joshuabecker91/s3_practice
 

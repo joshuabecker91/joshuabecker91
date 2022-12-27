@@ -60,7 +60,7 @@ https://user-images.githubusercontent.com/98496684/190670744-3f71b52e-ced8-4e79-
 
 Fathers House | Full Stack Application Responsive Website (mobile friendly) using Python/Flask deployed w/AWS EC2
 Technologies used: Python, Flask, JS, CSS, Bootstrap, HTML, API Integration, AWS EC2, Route 53
-https://github.com/joshuabecker91/fhwebsite | www.fhspokane.com
+https://github.com/joshuabecker91/fathershouse | www.fhspokane.com
 
 ![fathershouse](https://user-images.githubusercontent.com/98496684/209697301-c520f2df-a15c-4fe1-82ad-a62755524fd0.png)
 

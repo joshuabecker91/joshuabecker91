@@ -14,6 +14,7 @@ I am actively seeking a full time position: Software Engineer Full Stack or Back
 I am also open to specialized roles in Machine Learning/Artificial Intelligence, Cloud, Cybersecurity, Data.
 
 📄 My resume can be found on LinkedIn under the featured section. Thank you for your time!
+https://s3practiceboto3.s3.us-west-2.amazonaws.com/joshua_becker_resume.pdf
 
 📧 Please do not hesitate to reach out: joshua.becker91@gmail.com
 

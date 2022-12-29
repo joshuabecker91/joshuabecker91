@@ -102,6 +102,8 @@ https://github.com/joshuabecker91/stock_api_call_csv_export
 
 https://github.com/joshuabecker91/r_squared_pandas
 
+https://github.com/joshuabecker91/web_scraping_python_amazon
+
 https://github.com/joshuabecker91/email_automation_python
 
 https://github.com/joshuabecker91/youtube_downloader

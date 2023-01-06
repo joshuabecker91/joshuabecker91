@@ -11,7 +11,6 @@ Hi there, 👋 my name is Joshua Becker and I am a Software Engineer - Full Stac
 💼 Summary: Bright and motivated software engineer with a zeal for leveraging technology to improve business processes. Former portfolio manager turned software engineer with ten years experience in finance and business operations. Driven full stack developer passionate about disruptive technology and innovation, collaborating across multi-disciplinary teams.
 
 I am actively seeking a full time position: Software Engineer Full Stack or Back End.
-I am also open to specialized roles in Machine Learning/Artificial Intelligence, Cloud, Cybersecurity, Data.
 
 📄 My resume: https://s3practiceboto3.s3.us-west-2.amazonaws.com/joshua_becker_resume.pdf
 

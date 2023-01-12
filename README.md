@@ -1,4 +1,4 @@
-Hi there, 👋 my name is Joshua Becker and I am a Software Engineer - Full Stack Development: Python, JavaScript, React, Django, Node, AWS. I have completed my Full-Stack Software Development Certificate at Coding Dojo with over 1,000 hours of rigorous full stack training in Python, MERN, Java, and Web Fundamentals.
+Hi there, 👋 my name is Joshua Becker and I am a Software Engineer - Full Stack Development: Python, JavaScript, React, Django, Node, AWS. I completed my Full-Stack Software Development Certificate at Coding Dojo with over 1,000 hours of rigorous full stack training in Python, MERN, Java, and Web Fundamentals.
 
 🔨 I currently spend my time studying data structures, practicing algorithms daily (250+ on GitHub), and continue to build full stack application personal and freelance projects including Full Stack Software Developer at Fathers House. https://github.com/joshuabecker91/algorithmPractice
 

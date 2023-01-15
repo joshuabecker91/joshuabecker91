@@ -119,7 +119,7 @@ https://github.com/joshuabecker91/r_squared_pandas_yfinance
 --------------------------------------------------------------------------------------------------------------
 
 
-Algorithm Practice | Studying data structures, practicing algorithms daily on LeetCode, HackerRank, CodeSignal, and more. Completed over 250+ algorithms. https://github.com/joshuabecker91/algorithmPractice
+Algorithm Practice | Studying data structures, practicing algorithms daily on LeetCode, HackerRank, CodeSignal, and more. Completed over 300+ algorithms. https://github.com/joshuabecker91/algorithmPractice
 
 ![image](https://user-images.githubusercontent.com/98496684/206800507-83184ae0-e269-4098-a316-d1009af3ef75.png)
 

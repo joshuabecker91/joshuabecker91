@@ -23,8 +23,7 @@ Thank you for your time!
 Videos and Screenshots of Projects:
 
 
-CodeTube | CodeTube is a full stack YouTube clone that is dedicated to software development
-Full Stack Application w/ Login and Registration, full CRUD with validations and access control using Python/Django, deployed w/AWS EC2
+CodeTube - Full Stack YouTube clone that is dedicated to software development | Full Stack Application w/ Login and Registration, full CRUD with validations and access control using Python/Django, deployed w/AWS EC2
 Technologies used: Python, Django, JS, SQLite, Bcrypt, CSS, Bootstrap, HTML, Git, GitHub, AWS EC2, Route 53
 https://github.com/joshuabecker91/codetube | www.mycodetube.com
 
@@ -42,7 +41,7 @@ https://user-images.githubusercontent.com/98496684/193317733-a46680cb-5b2e-4d1d-
 --------------------------------------------------------------------------------------------------------------
 
 
-Google Clone with Ads | Full Stack Application w/ CRUD using React, Node, Express, MongoDB, Mongoose, Axios, API, deployed w/AWS EC2
+Google Clone with Ads - Full Stack Google clone with pay per click advertisement campaigns | Full Stack Application w/ CRUD using React, Node, Express, MongoDB, Mongoose, Axios, API, deployed w/AWS EC2
 Technologies used: React, Node, Express, MongoDB, Mongoose, Axios, API, HTML, CSS, JS, Material UI, Bootstrap, AWS EC2, AWS Route 53
 https://github.com/joshuabecker91/googleclonewithads | www.googleclone.com
 

@@ -79,7 +79,7 @@ https://user-images.githubusercontent.com/98496684/178899534-96712c1a-851c-4e0d-
 --------------------------------------------------------------------------------------------------------------
 
 
-Databox | Full Stack Application w/ Login and Registration, full CRUD with validations and access control, S3 file storage, and API payment for membership subscription using Python/Django/React
+Databox - Cloud based file hosting and storage service | Full Stack Application w/ Login and Registration, full CRUD with validations and access control, S3 file storage, and API payment for membership subscription using Python/Django/React
 Technologies used: Python, Django, React, MySQL, AWS S3 Bucket, AWS EC2, Route 53, API, Git, GitHub
 https://github.com/joshuabecker91/databox | currently in development
 

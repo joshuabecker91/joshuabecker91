@@ -23,7 +23,8 @@ Thank you for your time!
 Videos and Screenshots of Projects:
 
 
-CodeTube | Full Stack Application w/ Login and Registration, full CRUD with validations and access control using Python/Django, deployed w/AWS EC2
+CodeTube | CodeTube is a full stack YouTube clone that is dedicated to software development
+Full Stack Application w/ Login and Registration, full CRUD with validations and access control using Python/Django, deployed w/AWS EC2
 Technologies used: Python, Django, JS, SQLite, Bcrypt, CSS, Bootstrap, HTML, Git, GitHub, AWS EC2, Route 53
 https://github.com/joshuabecker91/codetube | www.mycodetube.com
 

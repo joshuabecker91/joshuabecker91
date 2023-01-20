@@ -17,7 +17,7 @@ I am actively seeking a full time position: Software Engineer Full Stack or Back
 📧 Please do not hesitate to reach out: joshua.becker91@gmail.com
 
 Thank you for your time!
-
+ 
 --------------------------------------------------------------------------------------------------------------
 
 Videos and Screenshots of Projects:

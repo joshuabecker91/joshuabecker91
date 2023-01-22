@@ -2,7 +2,7 @@ Hi there! 👋 I am a Software Engineer, Full Stack Development: Python, JavaScr
 
 🔨 I continue to upskill and gain experience by studying data structures, practicing algorithms (300+ on GitHub), and building full stack application projects including working as a Full Stack Software Developer at Fathers House. Scroll down to see projects below. https://github.com/joshuabecker91/algorithmPractice
 
-⚡ Technologies: I am proficient in Python, JavaScript, React, Flask, Django, Node, Express, MySQL, MongoDB, CSS, HTML, Bootstrap, AWS, Git, GitHub, APIs, Postman. I am comfortable with many other technologies (see the full curriculum list in my education section on LinkedIn). Happy to learn any technologies a company is using that I may not yet be proficient in.
+⚡ Technologies: I am proficient in Python, JavaScript, React, Flask, Django, Node, Express, MySQL, MongoDB, CSS, HTML, Bootstrap, AWS, Git, GitHub, APIs, Postman. I am comfortable with many other technologies and happy to learn any technologies that I may not yet be proficient in.
 
 ![My Skills](https://skillicons.dev/icons?i=py,js,react,flask,django,nodejs,express,mysql,mongodb,css,html,bootstrap,aws,git,github)
 

@@ -10,13 +10,9 @@ Hi there! 👋 I am a Software Engineer, Full Stack Development: Python, JavaScr
 
 💼 Summary: Bright and motivated software engineer with a zeal for leveraging technology to improve business processes. Former portfolio manager turned software engineer with ten years experience in finance and business operations. Driven full stack developer passionate about disruptive technology and innovation, collaborating across multi-disciplinary teams.
 
-I am actively seeking a full time position: Software Engineer Full Stack or Back End.
-
 📄 My resume: https://s3practiceboto3.s3.us-west-2.amazonaws.com/joshua_becker_resume.pdf
 
-📧 Please do not hesitate to reach out: joshua.becker91@gmail.com
-
-Thank you for your time!
+📧 Feel free to contact me at: joshua.becker91@gmail.com
  
 --------------------------------------------------------------------------------------------------------------
 

@@ -6,9 +6,9 @@ Hi there! 👋 I am a Software Engineer, Full Stack Development: Python, JavaScr
 
 ![My Skills](https://skillicons.dev/icons?i=py,js,react,flask,django,nodejs,express,mysql,mongodb,css,html,bootstrap,aws,git,github)
 
-💻 I am passionate about writing clean, maintainable, scalable code for large scale applications. I love building things, the process of starting with a vision, strategizing, executing, and overcoming challenges. I enjoy the journey and find it incredibly rewarding and fulfilling to see the project come to fruition and maintain enterprise quality status.
+💻 I love building things and I am passionate about disruptive technology and innovation. I thrive on writing clean, maintainable, scalable code for large scale applications, and enjoy seeing a project to fruition and maintaining enterprise quality.
 
-📄 Resume: https://s3practiceboto3.s3.us-west-2.amazonaws.com/joshua_becker_resume.pdf
+📄 My resume can be found on LinkedIn under the featured section.
 
 📧 Feel free to contact me at: joshua.becker91@gmail.com
  

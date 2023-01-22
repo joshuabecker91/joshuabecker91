@@ -1,6 +1,6 @@
 Hi there! 👋 I am a Software Engineer, Full Stack Development: Python, JavaScript, React, Django, Flask, Node, SQL, NoSQL, AWS. I am a Software Engineering Fellow at Formation where I receive personalized coaching from top-tier software engineers. Previously I completed my Full-Stack Software Development Certificate at Coding Dojo with over 1,000 hours of rigorous full stack training in Python, MERN, Java, and Web Fundamentals.
 
-🔨 I continue to upskill and gain experience by studying data structures, practicing algorithms (300+ on GitHub), and building full stack application projects including working as a Full Stack Software Developer at Fathers House. Scroll down to see project videos and screenshots below. https://github.com/joshuabecker91/algorithmPractice
+🔨 I continue to upskill and gain experience by studying data structures, practicing algorithms (300+ on GitHub), and building full stack application projects including working as a Full Stack Software Developer at Fathers House. Scroll down to see projects below. https://github.com/joshuabecker91/algorithmPractice
 
 ⚡ Technologies: I am proficient in Python, JavaScript, React, Flask, Django, Node, Express, MySQL, MongoDB, CSS, HTML, Bootstrap, AWS, Git, GitHub, APIs, Postman. I am comfortable with many other technologies (see the full curriculum list in my education section on LinkedIn). Happy to learn any technologies a company is using that I may not yet be proficient in.
 

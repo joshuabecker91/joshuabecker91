@@ -6,7 +6,7 @@ Hi there! 👋 I am a driven software engineer / full stack developer who is pas
 
 ![My Skills](https://skillicons.dev/icons?i=py,js,react,flask,django,nodejs,express,mysql,mongodb,css,html,bootstrap,aws,git,github)
 
-💻 I love building things and I am passionate about disruptive technology and innovation. I thrive on writing clean, maintainable, scalable code for large scale applications, and enjoy seeing a project to fruition and maintaining enterprise quality.
+💻 I love building things and thrive on writing clean, maintainable, scalable code for large scale applications. I enjoy seeing a project to fruition and maintaining enterprise level quality.
 
 📄 My resume can be found on LinkedIn under the featured section.
 

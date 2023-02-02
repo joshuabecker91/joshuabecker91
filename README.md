@@ -9,8 +9,6 @@ Hi there! 👋 I am a driven software engineer who is passionate about disruptiv
 💻 I love building things and thrive on writing clean, maintainable, scalable code for large scale applications. I enjoy seeing a project to fruition and maintaining enterprise level quality.
 
 📄 Resume: https://s3practiceboto3.s3.us-west-2.amazonaws.com/joshua_becker_resume.pdf
-
-📧 Feel free to contact me at: joshua.becker91@gmail.com
  
 --------------------------------------------------------------------------------------------------------------
 

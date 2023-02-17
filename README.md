@@ -15,10 +15,10 @@ Hi there! 👋 I am a driven software engineer who is passionate about disruptiv
 Videos and Screenshots of Projects:
 
 
-CodeTube | Python, Django, SQL, AWS
-Full stack YouTube clone dedicated to users learning software development, deployed with AWS EC2.
-Technologies: Python, Django, JavaScript, SQL, Bcrypt, CSS, Git, AWS
-https://github.com/joshuabecker91/codetube | www.mycodetube.com
+CodeTube | Python, Django, SQL, AWS  
+Full stack YouTube clone dedicated to users learning software development, deployed with AWS EC2.  
+Technologies: Python, Django, JavaScript, SQL, Bcrypt, CSS, Git, AWS  
+https://github.com/joshuabecker91/codetube | www.mycodetube.com  
 
 https://user-images.githubusercontent.com/98496684/193317733-a46680cb-5b2e-4d1d-beb2-ddf56d4b4ae2.mp4
 
@@ -32,10 +32,10 @@ https://user-images.githubusercontent.com/98496684/193317733-a46680cb-5b2e-4d1d-
 --------------------------------------------------------------------------------------------------------------
 
 
-Google Clone with Ads | React, Node, Express, NoSQL, AWS
-Full stack Google clone with pay-per-click ads using Google's Search API, React w/useContext, deployed with AWS EC2.
-Technologies: React, Node, Express, MongoDB, CSS, API, Git, AWS
-https://github.com/joshuabecker91/googleclonewithads | www.googleclone.com
+Google Clone with Ads | React, Node, Express, NoSQL, AWS  
+Full stack Google clone with pay-per-click ads using Google's Search API, React w/useContext, deployed with AWS EC2.  
+Technologies: React, Node, Express, MongoDB, CSS, API, Git, AWS  
+https://github.com/joshuabecker91/googleclonewithads | www.googleclone.com  
 
 https://user-images.githubusercontent.com/98496684/190670744-3f71b52e-ced8-4e79-8ff9-21a2b95db980.mp4
 
@@ -51,10 +51,10 @@ https://user-images.githubusercontent.com/98496684/190670744-3f71b52e-ced8-4e79-
 --------------------------------------------------------------------------------------------------------------
 
 
-Fathers House | Python, Flask, AWS
-Full Stack Software Developer at Fathers House | Responsive website application (mobile friendly)
-Technologies: Python, Flask, JS, CSS, Bootstrap, HTML, API Integration, AWS EC2, Route 53
-https://github.com/joshuabecker91/fathershouse | www.fhspokane.com
+Fathers House | Python, Flask, AWS  
+Full Stack Software Developer at Fathers House | Responsive website application (mobile friendly)  
+Technologies: Python, Flask, JS, CSS, Bootstrap, HTML, API Integration, AWS EC2, Route 53  
+https://github.com/joshuabecker91/fathershouse | www.fhspokane.com  
 
 ![image](https://user-images.githubusercontent.com/98496684/210123002-c0ec75fb-c73b-436a-851e-5a8f9325feae.png)
 
@@ -62,10 +62,10 @@ https://github.com/joshuabecker91/fathershouse | www.fhspokane.com
 --------------------------------------------------------------------------------------------------------------
 
 
-TV Shows | Python, Flask, SQL, AWS
-Full Stack application w/ login and registration, full CRUD and access control
-Technologies: Python, Flask, MySQL, Bcrypt, JS, CSS, Bootstrap, HTML, AWS
-https://github.com/joshuabecker91/shows | http://50.18.70.228
+TV Shows | Python, Flask, SQL, AWS  
+Full Stack application w/ login and registration, full CRUD and access control  
+Technologies: Python, Flask, MySQL, Bcrypt, JS, CSS, Bootstrap, HTML, AWS  
+https://github.com/joshuabecker91/shows | http://50.18.70.228  
 
 https://user-images.githubusercontent.com/98496684/178899534-96712c1a-851c-4e0d-8dd3-f4e2aba11f56.mp4
 
@@ -73,10 +73,10 @@ https://user-images.githubusercontent.com/98496684/178899534-96712c1a-851c-4e0d-
 --------------------------------------------------------------------------------------------------------------
 
 
-Databox | Python, Django, React, SQL, AWS S3 & EC2
-Cloud based file hosting and storage service using AWS S3 Bucket. Project currently in development.
-Technologies: Python, Django, React, MySQL, AWS S3 Bucket, AWS EC2, Route 53, API, Git, GitHub
-https://github.com/joshuabecker91/databox
+Databox | Python, Django, React, SQL, AWS S3 & EC2  
+Cloud based file hosting and storage service using AWS S3 Bucket. Project currently in development.  
+Technologies: Python, Django, React, MySQL, AWS S3 Bucket, AWS EC2, Route 53, API, Git, GitHub  
+https://github.com/joshuabecker91/databox  
 
 ![databox_logo_lg](https://user-images.githubusercontent.com/98496684/197374503-c799e866-0368-498f-b539-80d75cb11341.png)
 
@@ -114,7 +114,8 @@ https://github.com/joshuabecker91/r_squared_pandas_yfinance
 --------------------------------------------------------------------------------------------------------------
 
 
-Algorithm Practice | Studying data structures, practicing algorithms daily on LeetCode, HackerRank, CodeSignal, and more. Completed over 300+ algorithms. https://github.com/joshuabecker91/algorithmPractice
+Algorithm Practice  
+Studying data structures, practicing algorithms daily on LeetCode, HackerRank, CodeSignal, and more. Completed over 300+ algorithms. https://github.com/joshuabecker91/algorithmPractice
 
 ![image](https://user-images.githubusercontent.com/98496684/206800507-83184ae0-e269-4098-a316-d1009af3ef75.png)
 

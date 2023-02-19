@@ -88,17 +88,21 @@ https://github.com/joshuabecker91/databox
 --------------------------------------------------------------------------------------------------------------
 
 
-R Squared Correlation Trading System | Python, Pandas, numpy, pendulum, matplotlib, yfinance, csv
-Project currently in development...  
-https://github.com/joshuabecker91/r_squared_pandas_yfinance  
+R Squared Correlation Trading System | Project currently in development...   
+Technologies: Python, Pandas, numpy, pendulum, matplotlib, yfinance, csv  
+https://github.com/joshuabecker91/r_squared_pandas_yfinance   
 
 https://user-images.githubusercontent.com/98496684/208353463-afc7a1d4-fd01-4be0-9d16-0477609dc1f3.mp4   
+
+![crm_qcom](https://user-images.githubusercontent.com/98496684/208354800-ea45ed6f-2823-4cad-8f47-ef5f9c007816.png)  
+
+![image](https://user-images.githubusercontent.com/98496684/219768004-508bbac2-651a-4188-9f25-0283404594e0.png)  
 
 
 --------------------------------------------------------------------------------------------------------------
 
 
-Automation with Python projects:
+Automation with Python:
 
 Covered Call Signal Trading System | https://github.com/joshuabecker91/covered_call_signal_pandas_yfinance
 

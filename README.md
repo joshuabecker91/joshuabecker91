@@ -21,7 +21,7 @@ Technologies: Python, Django, JavaScript, SQL, Bcrypt, CSS, Git, AWS
 https://github.com/joshuabecker91/codetube | www.mycodetube.com  
 
 https://user-images.githubusercontent.com/98496684/193317733-a46680cb-5b2e-4d1d-beb2-ddf56d4b4ae2.mp4
-
+  
 ![image](https://user-images.githubusercontent.com/98496684/191680231-0ed0942b-2e3a-4af0-865b-7ffb3d8e774c.png)
 
 ![image](https://user-images.githubusercontent.com/98496684/206799738-bf966a16-7b06-4197-b8da-1f3dc7d0e62f.png)
@@ -40,7 +40,7 @@ Technologies: React, Node, Express, MongoDB, CSS, API, Git, AWS
 https://github.com/joshuabecker91/googleclonewithads | www.googleclone.com  
 
 https://user-images.githubusercontent.com/98496684/190670744-3f71b52e-ced8-4e79-8ff9-21a2b95db980.mp4
-
+  
 ![image](https://user-images.githubusercontent.com/98496684/188943090-6e14e459-7c79-4c60-b516-a3776c70ace2.png)
 
 ![image](https://user-images.githubusercontent.com/98496684/189730273-681831d0-cf0d-4df1-914a-5edfd10a9f0e.png)
@@ -93,7 +93,8 @@ Technologies: Python, Pandas, numpy, pendulum, matplotlib, yfinance, csv
 https://github.com/joshuabecker91/r_squared_pandas_yfinance   
 
 https://user-images.githubusercontent.com/98496684/208353463-afc7a1d4-fd01-4be0-9d16-0477609dc1f3.mp4   
-  
+   
+     
 QCOM CRM example of generated matplotlib chart  
 
 ![crm_qcom](https://user-images.githubusercontent.com/98496684/208354800-ea45ed6f-2823-4cad-8f47-ef5f9c007816.png)  

@@ -88,29 +88,37 @@ https://github.com/joshuabecker91/databox
 --------------------------------------------------------------------------------------------------------------
 
 
+R Squared Correlation Trading System | Python, Pandas, numpy, pendulum, matplotlib, yfinance, csv
+Project currently in development...  
+https://github.com/joshuabecker91/r_squared_pandas_yfinance  
+
+https://user-images.githubusercontent.com/98496684/208353463-afc7a1d4-fd01-4be0-9d16-0477609dc1f3.mp4   
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
 Automation with Python projects:
 
-https://github.com/joshuabecker91/web_scraping_python
+Covered Call Signal Trading System | https://github.com/joshuabecker91/covered_call_signal_pandas_yfinance
 
-https://github.com/joshuabecker91/audio_mic_transcribe
+R Squared Correlation w/ Pandas | https://github.com/joshuabecker91/r_squared_pandas
 
-https://github.com/joshuabecker91/speech_stock_api
+Email Automation with Python | https://github.com/joshuabecker91/email_automation_python
 
-https://github.com/joshuabecker91/stock_api_call_csv_export
+Youtube Video Downloader | https://github.com/joshuabecker91/youtube_downloader
 
-https://github.com/joshuabecker91/r_squared_pandas
+AWS S3 Bucket Practice w/Boto3 | https://github.com/joshuabecker91/s3_practice
 
-https://github.com/joshuabecker91/web_scraping_python_amazon
+Web Scraping with Python | https://github.com/joshuabecker91/web_scraping_python
 
-https://github.com/joshuabecker91/email_automation_python
+Web Scraping Amazon | https://github.com/joshuabecker91/web_scraping_python_amazon
 
-https://github.com/joshuabecker91/youtube_downloader
+Transcribe Live Microphone Audio | https://github.com/joshuabecker91/audio_mic_transcribe
 
-https://github.com/joshuabecker91/s3_practice
+Speech Recognition Stock API Request | https://github.com/joshuabecker91/speech_stock_api
 
-https://github.com/joshuabecker91/covered_call_signal_pandas_yfinance
-
-https://github.com/joshuabecker91/r_squared_pandas_yfinance 
+Stock API CSV Export | https://github.com/joshuabecker91/stock_api_call_csv_export
 
 
 --------------------------------------------------------------------------------------------------------------

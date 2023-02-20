@@ -1,4 +1,4 @@
-Hi there! 👋 I am a driven software engineer who is passionate about disruptive technology and innovation. Currently I am a Software Engineering Fellow at Formation where I receive personalized coaching from top-tier software engineers. Previously I completed my Full-Stack Software Development Certificate at Coding Dojo with over 1,000 hours of rigorous full stack training in Python, MERN, Java, and Web Fundamentals.
+Hi there! 👋 I am a driven software engineer who is passionate about disruptive technology and innovation. Currently I am a Software Engineering Fellow at Formation where I receive personalized coaching from top-tier software engineers. Previously I completed my Full-Stack Software Development Certificate at Coding Dojo with over 1,000 hours of rigorous full stack training in Python, MERN, Java, and Web Fundamentals. 
 
 🔨 I continue to upskill and gain experience by studying data structures, practicing algorithms (300+ on GitHub), and building full stack application projects including working as a Full Stack Software Developer at Fathers House. Scroll down to see projects below. https://github.com/joshuabecker91/algorithmPractice
 

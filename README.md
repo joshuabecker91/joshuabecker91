@@ -96,8 +96,8 @@ https://user-images.githubusercontent.com/98496684/208353463-afc7a1d4-fd01-4be0-
    
      
 QCOM CRM example of generated matplotlib chart  
-
-![crm_qcom](https://user-images.githubusercontent.com/98496684/208354800-ea45ed6f-2823-4cad-8f47-ef5f9c007816.png)  
+  
+![image](https://user-images.githubusercontent.com/98496684/221295094-7037985e-a323-491a-8164-fa92614344ca.png)
 
 ![image](https://user-images.githubusercontent.com/98496684/219768270-ec2b5bb3-bb3c-43d4-8f4f-2c8cba9a9044.png)   
 

@@ -75,8 +75,8 @@ https://user-images.githubusercontent.com/98496684/178899534-96712c1a-851c-4e0d-
 --------------------------------------------------------------------------------------------------------------
 
 
-Databox | Python, Django, React, SQL, AWS S3 & EC2  
-Cloud based file hosting and storage service using AWS S3 Bucket. Project currently in development.  
+Databox | Python, Django, React, SQL, AWS S3 & EC2 | Project currently in development.   
+Cloud based file hosting and storage service using AWS S3 Bucket. 
 Technologies: Python, Django, React, MySQL, AWS S3 Bucket, AWS EC2, Route 53, API, Git, GitHub  
 https://github.com/joshuabecker91/databox  
 
@@ -88,9 +88,9 @@ https://github.com/joshuabecker91/databox
 --------------------------------------------------------------------------------------------------------------
 
 
-Correlation Pairs Trading | Python, pandas, numpy, matplotlib
-Algorithmic stock trading system being developed, deployed on AWS EC2 w/ Interactive Brokers.
-Technologies: Python, Pandas, numpy, pendulum, matplotlib, yfinance, csv  
+Correlation Pairs Trading | Python, pandas, numpy, matplotlib | Project currently in development.  
+Algorithmic stock trading system being developed, deployed on AWS EC2 w/ Interactive Brokers.  
+Technologies: Python, Pandas, numpy, pendulum, matplotlib, yfinance, csv   
 https://github.com/joshuabecker91/r_squared_pandas_yfinance   
 
 https://user-images.githubusercontent.com/98496684/208353463-afc7a1d4-fd01-4be0-9d16-0477609dc1f3.mp4   

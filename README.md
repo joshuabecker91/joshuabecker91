@@ -108,11 +108,9 @@ QCOM CRM example of generated matplotlib chart
 
 Automation with Python:
 
-Covered Call Signal Trading System | https://github.com/joshuabecker91/covered_call_signal_pandas_yfinance
-
 Email Automation with Python | https://github.com/joshuabecker91/email_automation_python
 
-AWS S3 Bucket Practice w/Boto3 | https://github.com/joshuabecker91/s3_practice
+Automatic Note Taking / Audio Transcribe | https://github.com/joshuabecker91/audio_mic_transcribe
 
 Youtube Video Downloader | https://github.com/joshuabecker91/youtube_downloader
 
@@ -120,9 +118,11 @@ Web Scraping with Python | https://github.com/joshuabecker91/web_scraping_python
 
 Web Scraping Amazon | https://github.com/joshuabecker91/web_scraping_python_amazon
 
-Transcribe Live Microphone Audio | https://github.com/joshuabecker91/audio_mic_transcribe
+AWS S3 Bucket Practice w/Boto3 | https://github.com/joshuabecker91/s3_practice
 
-R Squared Correlation w/ Pandas | https://github.com/joshuabecker91/r_squared_pandas
+Correlation Pairs Trading | https://github.com/joshuabecker91/r_squared_pandas
+
+Covered Call Signal Trading System | https://github.com/joshuabecker91/covered_call_signal_pandas_yfinance
 
 Speech Recognition Stock API Request | https://github.com/joshuabecker91/speech_stock_api
 

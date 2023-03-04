@@ -88,7 +88,8 @@ https://github.com/joshuabecker91/databox
 --------------------------------------------------------------------------------------------------------------
 
 
-R Squared Correlation Trading System | Project currently in development...   
+Correlation Pairs Trading | Python, pandas, numpy, matplotlib
+Algorithmic stock trading system being developed, deployed on AWS EC2 w/ Interactive Brokers.
 Technologies: Python, Pandas, numpy, pendulum, matplotlib, yfinance, csv  
 https://github.com/joshuabecker91/r_squared_pandas_yfinance   
 

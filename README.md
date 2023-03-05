@@ -89,7 +89,7 @@ https://github.com/joshuabecker91/databox
 
 
 Correlation Pairs Trading | Python, pandas, numpy, matplotlib | Project currently in development.  
-Algorithmic stock trading system being developed, deployed on AWS EC2 w/ Interactive Brokers.  
+Algorithmic stock trading system, deployed on AWS EC2 w/ Interactive Brokers.  
 Technologies: Python, Pandas, numpy, pendulum, matplotlib, yfinance, csv   
 https://github.com/joshuabecker91/r_squared_pandas_yfinance   
 

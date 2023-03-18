@@ -1,4 +1,4 @@
-Hi there! 👋 I am a driven software engineer who is passionate about disruptive technology and innovation. Currently I am a Software Engineering Fellow at Formation where I receive personalized coaching from top-tier software engineers. Previously I completed my Full-Stack Software Development Certificate at Coding Dojo with over 1,000 hours of rigorous full stack training in Python, MERN, Java, and Web Fundamentals.  
+Hi there! 👋 I am a driven software engineer who is passionate about disruptive technology and innovation. Currently I am a Software Engineering Fellow at Formation where I receive personalized coaching from top-tier software engineers. Previously I completed my Full-Stack Software Development Certificate at Coding Dojo with over 1,000 hours of rigorous full stack training in Python, MERN, Java, and Web Fundamentals.
 
 🔨 I continue to upskill and gain experience by studying data structures, practicing algorithms (300+ on GitHub), and building full stack application projects including working as a Full Stack Software Developer at Fathers House. Scroll down to see projects below. https://github.com/joshuabecker91/algorithmPractice
 
@@ -12,7 +12,7 @@ Hi there! 👋 I am a driven software engineer who is passionate about disruptiv
  
 --------------------------------------------------------------------------------------------------------------
 
-Videos and Screenshots of Projects:  
+Videos and Screenshots of Projects:
 
 
 CodeTube | Python, Django, SQL, AWS  
@@ -20,7 +20,7 @@ Full stack YouTube clone dedicated to users learning software development, deplo
 Technologies: Python, Django, JavaScript, SQL, Bcrypt, CSS, Git, AWS  
 https://github.com/joshuabecker91/codetube | www.mycodetube.com  
 
-https://user-images.githubusercontent.com/98496684/193317733-a46680cb-5b2e-4d1d-beb2-ddf56d4b4ae2.mp4
+https://user-images.githubusercontent.com/98496684/193317733-a46680cb-5b2e-4d1d-beb2-ddf56d4b4ae2.mp4  
   
 ![image](https://user-images.githubusercontent.com/98496684/191680231-0ed0942b-2e3a-4af0-865b-7ffb3d8e774c.png)
 

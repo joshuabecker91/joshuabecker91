@@ -12,7 +12,7 @@ Hi there! 👋 I am a driven software engineer who is passionate about disruptiv
  
 --------------------------------------------------------------------------------------------------------------
 
-Videos and Screenshots of Projects:
+Videos and Screenshots of Projects:  
 
 
 CodeTube | Python, Django, SQL, AWS  

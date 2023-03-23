@@ -6,7 +6,7 @@ Hi there! 👋 I am a driven software engineer who is passionate about disruptiv
 
 ![My Skills](https://skillicons.dev/icons?i=py,js,react,flask,django,nodejs,express,mysql,mongodb,css,html,bootstrap,aws,git,github)
 
-💻 I love building things and thrive on writing clean, maintainable, scalable code for large scale applications. I enjoy seeing a project to fruition and maintaining high quality code.  
+💻 I love building things and thrive on writing clean, maintainable, scalable code for large scale applications. I enjoy seeing a project to fruition and maintaining high quality code.
 
 📄 Resume: https://s3practiceboto3.s3.us-west-2.amazonaws.com/joshua_becker_resume.pdf
  

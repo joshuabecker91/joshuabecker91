@@ -2,9 +2,9 @@ Hi there! I am a driven software engineer who is passionate about disruptive tec
 
 Prior to my training at Formation, I received my Full-Stack Software Development Certificate at Coding Dojo with full stack training in Python, MERN, Java, and Web Fundamentals. In addition to the many projects I've enjoyed building which you can see on GitHub, I am a Full Stack Software Developer at Fathers House, where I have spearheaded the development of their web app and online presence.
 
-![My Skills](https://skillicons.dev/icons?i=py,js,react,flask,django,nodejs,express,mysql,mongodb,css,html,bootstrap,aws,git,github)
-
 Technologies: I am proficient in Python, JavaScript, React, Flask, Django, Node, Express, MySQL, MongoDB, CSS, HTML, Bootstrap, and have experience working with AWS, Git, GitHub, APIs, Postman.
+
+![My Skills](https://skillicons.dev/icons?i=py,js,react,flask,django,nodejs,express,mysql,mongodb,css,html,bootstrap,aws,git,github)
 
 📄 Resume: https://s3practiceboto3.s3.us-west-2.amazonaws.com/joshua_becker_resume.pdf
  

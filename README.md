@@ -1,12 +1,10 @@
-Hi there! 👋 I am a driven software engineer who is passionate about disruptive technology and innovation. Currently I am a Software Engineering Fellow at Formation where I receive personalized coaching from top-tier software engineers. Previously I completed my Full-Stack Software Development Certificate at Coding Dojo with over 1,000 hours of rigorous full stack training in Python, MERN, Java, and Web Fundamentals.  
+Hi there! I am a driven software engineer who is passionate about disruptive technology and innovation. Prior to software development, I worked in finance in NYC and have over 10 years of work experience. Currently, I am a Software Engineering Fellow at Formation where I've worked alongside top-tier software engineers from Google, Microsoft, Airbnb, and elsewhere to expand my knowledge of data structures and algorithms. I've also trained on their application, Recur, working on real-world challenges in a large code base like working with APIs and improving the UI look and feel.
 
-🔨 I continue to upskill and gain experience by studying data structures, practicing algorithms (300+ on GitHub), and building full stack application projects including working as a Full Stack Software Developer at Fathers House. Scroll down to see projects below. https://github.com/joshuabecker91/algorithmPractice  
-
-⚡ Technologies: I am proficient in Python, JavaScript, React, Flask, Django, Node, Express, MySQL, MongoDB, CSS, HTML, Bootstrap, and have experience working with AWS, Git, GitHub, APIs, Postman. I am comfortable with many other technologies which you can find listed on my resume.  
+Prior to my training at Formation, I received my Full-Stack Software Development Certificate at Coding Dojo with full stack training in Python, MERN, Java, and Web Fundamentals. In addition to the many projects I've enjoyed building which you can see on GitHub, I am a Full Stack Software Developer at Fathers House, where I have spearheaded the development of their web app and online presence.
 
 ![My Skills](https://skillicons.dev/icons?i=py,js,react,flask,django,nodejs,express,mysql,mongodb,css,html,bootstrap,aws,git,github)
 
-💻 I love building things and thrive on writing clean, maintainable, scalable code for large scale applications. I enjoy seeing a project to fruition and maintaining high quality code.  
+Technologies: I am proficient in Python, JavaScript, React, Flask, Django, Node, Express, MySQL, MongoDB, CSS, HTML, Bootstrap, and have experience working with AWS, Git, GitHub, APIs, Postman.
 
 📄 Resume: https://s3practiceboto3.s3.us-west-2.amazonaws.com/joshua_becker_resume.pdf
  

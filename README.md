@@ -6,7 +6,7 @@ Technologies: I am proficient in Python, JavaScript, React, Flask, Django, Node,
 
 ![My Skills](https://skillicons.dev/icons?i=py,js,react,flask,django,nodejs,express,mysql,mongodb,css,html,bootstrap,aws,git,github)
 
-📄 Resume: https://s3practiceboto3.s3.us-west-2.amazonaws.com/joshua_becker_resume.pdf
+📄 Resume: https://s3practiceboto3.s3.us-west-2.amazonaws.com/joshua_becker_resume.pdf  
  
 --------------------------------------------------------------------------------------------------------------
 

@@ -10,7 +10,7 @@ Technologies: I am proficient in Python, JavaScript, React, Flask, Django, Node,
  
 --------------------------------------------------------------------------------------------------------------
 
-Videos and Screenshots of Projects:  
+Videos and Screenshots of Projects:    
 
 
 CodeTube | Python, Django, SQL, AWS  

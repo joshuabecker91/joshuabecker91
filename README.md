@@ -2,7 +2,7 @@ Hi there! I am a driven software engineer with a passion for disruptive technolo
 
 Prior to my training at Formation, I received my Full-Stack Software Development Certificate at Coding Dojo, focusing on full stack development in Python, MERN, and Java. In addition to the many projects I've enjoyed building, which can be viewed on GitHub, I am a Full Stack Software Engineer at Fathers House where I have spearheaded the development of their web app and online presence.    
 
-Technologies: I am proficient in Python, JavaScript, React, Flask, Django, Node, Express, MySQL, MongoDB, CSS, HTML, Bootstrap, and have experience working with AWS, Git, GitHub, APIs, Postman.  
+Technologies: I am proficient in Python, JavaScript, React, Flask, Django, Node, Express, MySQL, MongoDB, CSS, HTML, Bootstrap, and have experience working with AWS, Git, GitHub, APIs, Postman.   
 
 ![My Skills](https://skillicons.dev/icons?i=py,js,react,flask,django,nodejs,express,mysql,mongodb,css,html,bootstrap,aws,git,github) 
 

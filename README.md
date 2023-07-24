@@ -131,7 +131,7 @@ Stock API CSV Export | https://github.com/joshuabecker91/stock_api_call_csv_expo
 
 
 Algorithm Practice  
-Studying data structures, practicing algorithms daily on LeetCode, HackerRank, CodeSignal, and more. Completed over 300+ algorithms. https://github.com/joshuabecker91/algorithmPractice
+Studying data structures, practicing algorithms daily on LeetCode, HackerRank, CodeSignal, and more. Completed over 500+ algorithms. https://github.com/joshuabecker91/algorithmPractice
 
 ![image](https://user-images.githubusercontent.com/98496684/206800507-83184ae0-e269-4098-a316-d1009af3ef75.png)
 

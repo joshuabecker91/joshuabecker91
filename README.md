@@ -86,7 +86,7 @@ https://user-images.githubusercontent.com/98496684/178899534-96712c1a-851c-4e0d-
 
 
 Databox | Python, Django, React, SQL, AWS S3 & EC2 | Project currently in development.   
-Cloud based file hosting and storage service using AWS S3 Bucket. 
+Cloud based file hosting and storage service using AWS S3 Bucket.   
 Technologies: Python, Django, React, MySQL, AWS S3 Bucket, AWS EC2, Route 53, API, Git, GitHub  
 https://github.com/joshuabecker91/databox  
 

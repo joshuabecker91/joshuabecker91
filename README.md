@@ -52,7 +52,7 @@ https://user-images.githubusercontent.com/98496684/190670744-3f71b52e-ced8-4e79-
 
 
 Fathers House | Python, Flask, AWS  
-Full Stack Software Developer at Fathers House | Responsive website application (mobile friendly)  
+Full Stack Software Developer at Fathers House | Responsive web application (mobile friendly)  
 Technologies: Python, Flask, JS, CSS, Bootstrap, HTML, API Integration, AWS EC2, Route 53  
 https://github.com/joshuabecker91/fathershouse | www.fhspokane.com  
 
@@ -63,7 +63,7 @@ https://github.com/joshuabecker91/fathershouse | www.fhspokane.com
 
 
 JC International | React, Node, AWS  
-Freelance | Responsive website application (mobile friendly)    
+Freelance | Responsive web application (mobile friendly)    
 Technologies: React, JS, Node, Sass, Bootstrap, HTML, AWS EC2, Route 53  
 https://github.com/joshuabecker91/jcinternational | www.jacobcastanon.com   
 (landing page live while main site under development http://54.183.252.40)  

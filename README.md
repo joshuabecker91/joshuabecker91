@@ -64,7 +64,7 @@ https://github.com/joshuabecker91/fathershouse | www.fhspokane.com
 
 JC International | React, Node, AWS  
 Freelance | Responsive web application (mobile friendly)    
-Technologies: React, JS, Node, Sass, Bootstrap, HTML, AWS EC2, Route 53  
+Technologies: React, JS, Node, CSS, Bootstrap, HTML, AWS EC2, Route 53  
 https://github.com/joshuabecker91/jcinternational | www.jacobcastanon.com   
 (landing page live while main site under development http://54.183.252.40)  
 

@@ -10,9 +10,20 @@ Technologies: I am proficient in Python, JavaScript, React, Flask, Django, Node,
 
 --------------------------------------------------------------------------------------------------------------
 
-Videos and Screenshots of Projects:    
+Videos and Screenshots of Projects:     
+  
 
-
+AlphaExpert | Python, Django, React, PostgreSQL, JS, Numpy, Pandas, Git, AWS, Docker   
+SaaS fintech platform providing members with access to proven quantitative algorithmic trading strategies.  
+Technologies: Python, Django, React, PostgreSQL, JS, Numpy, Pandas, Git, AWS, Docker  
+https://alphaexpert.io | private repo  
+  
+![aescreenshot](https://github.com/joshuabecker91/joshuabecker91/assets/98496684/6017e14c-e8bf-4b30-a405-e72bb63de8d9)
+  
+  
+--------------------------------------------------------------------------------------------------------------  
+  
+   
 CodeTube | Python, Django, SQL, AWS  
 Full stack YouTube clone dedicated to users learning software development, deployed with AWS EC2.  
 Technologies: Python, Django, JavaScript, SQL, Bcrypt, CSS, Git, AWS  

@@ -1,8 +1,8 @@
-Hi there! I am a driven software engineer with a passion for disrupting technology and innovation. Prior to software development, I worked in finance in NYC and have over 10 years of work experience. As a Software Engineering Fellow at Formation, I've worked alongside top-tier software engineers from companies including Google, Microsoft, and Airbnb to enhance my knowledge of data structures and algorithms. Additionally, I have contributed to the development of Formation's app, Recur, gaining practical experience in addressing real-world issues within a large codebase including API integration and user interface refinement.   
+Hi there! I am a driven software engineer with a passion for disruptive technology and innovation. Prior to software development, I worked in finance in NYC and have over 10 years of work experience. As a Software Engineering Fellow at Formation, I've worked alongside top-tier software engineers from companies including Google, Microsoft, and Airbnb to enhance my knowledge of data structures and algorithms. Additionally, I have contributed to the development of Formation's app, Recur, gaining practical experience in addressing real-world issues within a large codebase including API integration and user interface refinement.  
 
-Prior to my training at Formation, I received my Full-Stack Software Development Certificate at Coding Dojo, focusing on full stack development in Python, MERN, and Java. In addition to the many projects I've enjoyed building, which can be viewed on GitHub, I am a Full Stack Software Engineer at Fathers House where I have spearheaded the development of their web app and online presence.   
+Prior to my training at Formation, I received my Full-Stack Software Development Certificate at Coding Dojo, focusing on full stack development in Python, MERN, and Java. In addition to the many projects I've enjoyed building, which can be viewed on GitHub, I am a Full Stack Software Engineer at Fathers House where I have spearheaded the development of their web app and online presence.  
 
-Technologies: I am proficient in Python, JavaScript, React, Flask, Django, Node, Express, MySQL, PostgreSQL, MongoDB, CSS, HTML, Bootstrap, and have experience working with AWS, Git, GitHub, APIs, Postman.      
+Technologies: I am proficient in Python, JavaScript, React, Flask, Django, Node, Express, PostgreSQL, MySQL, MongoDB, CSS, HTML, Bootstrap, and have experience working with AWS, Docker, Git, APIs, NumPy, Pandas, Postman.  
 
 ![My Skills](https://skillicons.dev/icons?i=py,js,react,flask,django,nodejs,express,mysql,postgres,mongodb,aws,gcp,git,docker,linux)   
 
@@ -13,9 +13,9 @@ Technologies: I am proficient in Python, JavaScript, React, Flask, Django, Node,
 Videos and Screenshots of Projects:     
   
 
-AlphaExpert | Python, Django, React, PostgreSQL, JS, Numpy, Pandas, Git, AWS, Docker   
+AlphaExpert | Python, Django, React, PostgreSQL, JS, NumPy, Pandas, Git, AWS, Docker   
 SaaS fintech platform providing members with access to proven quantitative algorithmic trading strategies.   
-Technologies: Python, Django, React, PostgreSQL, JS, Numpy, Pandas, Git, AWS, Docker      
+Technologies: Python, Django, React, PostgreSQL, JS, NumPy, Pandas, Git, AWS, Docker      
 https://alphaexpert.io | Private Repo  
   
 ![aescreenshot](https://github.com/joshuabecker91/joshuabecker91/assets/98496684/6017e14c-e8bf-4b30-a405-e72bb63de8d9)

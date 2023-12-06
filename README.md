@@ -19,6 +19,8 @@ Technologies: Python, Django, React, PostgreSQL, JS, NumPy, Pandas, Git, AWS, Do
 https://alphaexpert.io | Private Repo  
   
 ![aescreenshot](https://github.com/joshuabecker91/joshuabecker91/assets/98496684/6017e14c-e8bf-4b30-a405-e72bb63de8d9)
+
+![image](https://github.com/joshuabecker91/joshuabecker91/assets/98496684/8b8598b7-6e51-4327-a533-638e808b5209)  
   
   
 --------------------------------------------------------------------------------------------------------------  

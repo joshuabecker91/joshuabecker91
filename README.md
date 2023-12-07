@@ -20,7 +20,8 @@ https://alphaexpert.io | Private Repo
   
 ![aescreenshot](https://github.com/joshuabecker91/joshuabecker91/assets/98496684/6017e14c-e8bf-4b30-a405-e72bb63de8d9)
 
-![Coming Soon](https://github.com/joshuabecker91/joshuabecker91/assets/98496684/b465cb33-b0f6-4ef6-93b1-3dcb9bdbc591)  
+![MEMBERS AREA Coming soon](https://github.com/joshuabecker91/joshuabecker91/assets/98496684/77189445-a1ba-4948-80c2-48470592ba55)  
+
   
   
 --------------------------------------------------------------------------------------------------------------  

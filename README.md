@@ -79,7 +79,7 @@ JC International | React, Node, AWS
 Freelance | Responsive web application (mobile friendly)    
 Technologies: React, JS, Node, CSS, Bootstrap, HTML, AWS EC2, Route 53  
 https://github.com/joshuabecker91/jcinternational | www.jacobcastanon.com   
-(landing page live while main site under development http://54.183.252.40)  
+(landing page live while main site under development, waiting for client content http://54.183.252.40)  
 
 ![image](https://github.com/joshuabecker91/joshuabecker91/assets/98496684/7ec38dae-4a5c-4be7-bd6a-666ac79d0f04)
 

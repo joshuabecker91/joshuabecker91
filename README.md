@@ -1,8 +1,10 @@
-Hi there! I am a driven software engineer with a passion for disruptive technology and innovation. Prior to software development, I worked in finance in NYC and have over 10 years of work experience. As a Software Engineering Fellow at Formation, I've worked alongside top-tier software engineers from companies including Google, Microsoft, and Airbnb to enhance my knowledge of data structures and algorithms. Additionally, I have contributed to the development of Formation's app, Recur, gaining practical experience in addressing real-world issues within a large codebase including API integration and user interface refinement.  
+Hello! I'm a dedicated software engineer passionate about pioneering technology and innovation. With over a decade of professional experience, I transitioned from a finance background in NYC to immerse myself in software development.  
 
-Prior to my training at Formation, I received my Full-Stack Software Development Certificate at Coding Dojo, focusing on full stack development in Python, MERN, and Java. In addition to the many projects I've enjoyed building, which can be viewed on GitHub, I am a Full Stack Software Engineer at Fathers House where I have spearheaded the development of their web app and online presence resulting in a substantial increase in their monthly revenue.  
+As a Software Engineering Fellow at Formation, I collaborated with top-tier engineers from tech giants like Google, Microsoft, and Airbnb, refining my expertise in data structures and algorithms. Contributing to the development of Formation's app, Recur, allowed me to tackle real-world challenges within a robust codebase, honing skills in API integration and user interface refinement.  
 
-Technologies: I am proficient in Python, JavaScript, React, Flask, Django, Node, Express, PostgreSQL, MySQL, MongoDB, CSS, HTML, Bootstrap, and have experience working with AWS, Docker, Git, APIs, NumPy, Pandas, Postman.  
+Prior to Formation, I earned my Full-Stack Software Development Certificate from Coding Dojo, specializing in Python, MERN, and Java. My GitHub showcases various projects I've passionately crafted. Currently serving as a Full Stack Software Engineer at Fathers House, I've led the creation of their web app, significantly boosting their monthly revenue through enhanced online presence.  
+
+Proficient in Python, JavaScript, React, Flask, Django, Node, Express, databases like PostgreSQL, MySQL, MongoDB, and adept at AWS, Docker, Git, APIs, NumPy, Pandas, and Postman.  
 
 ![My Skills](https://skillicons.dev/icons?i=py,js,react,flask,django,nodejs,express,mysql,postgres,mongodb,aws,gcp,git,docker,linux)   
 

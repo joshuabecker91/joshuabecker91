@@ -16,6 +16,12 @@ Videos and Screenshots of Projects:
 AlphaExpert | Python, Django, React, PostgreSQL, JavaScript, Git, AWS, Docker   
 Revolutionary SaaS fintech platform providing members with proven quantitative algorithmic trading strategies.      
 https://alphaexpert.io | Private Repo  
+
+• Led the development of a cutting-edge SaaS fintech platform at AlphaExpert.io, serving as the founding engineer.  
+• Proficiently designed and implemented the backend infrastructure with Python, Django, REST APIs, NumPy, Pandas, Matplotlib, and third-party data integration, enhancing data processing efficiency.  
+• Managed frontend development with React, JavaScript, CSS, and React Bootstrap, ensuring a seamless user experience optimizing for conversion and retention. Oversaw PostgreSQL database management on AWS RDS.  
+• Designed real-time trading algorithms, enabling dynamic calculations with live data, and trade alerts for users.  
+• Orchestrated efficient deployment on AWS ECS and Docker, enabling auto-scaling, while leveraging Stripe API for recurring membership payments, and installed SSL certificates for enhanced security and data protection.  
   
 ![aescreenshot](https://github.com/joshuabecker91/joshuabecker91/assets/98496684/6017e14c-e8bf-4b30-a405-e72bb63de8d9)
 

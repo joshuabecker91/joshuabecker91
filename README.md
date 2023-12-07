@@ -27,7 +27,7 @@ https://alphaexpert.io | Private Repo
   
    
 CodeTube | Python, Django, SQL, AWS  
-Full stack YouTube clone dedicated to users learning software development, deployed with AWS EC2.  
+YouTube-like platform tailored for software development education, deployed using EC2, Gunicorn, and Nginx.  
 Technologies: Python, Django, JavaScript, SQL, Bcrypt, CSS, Git, AWS  
 https://github.com/joshuabecker91/codetube | www.mycodetube.com  
 
@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/98496684/193317733-a46680cb-5b2e-4d1d-
 
 
 Google Clone with Ads | React, Node, Express, NoSQL, AWS  
-Full stack Google clone with pay-per-click ads using Google's Search API, React w/useContext, deployed with AWS EC2.  
+Full-stack Google replica integrated with pay-per-click ads utilizing Google's Search API and React, hosted on AWS.  
 Technologies: React, Node, Express, MongoDB, CSS, API, Git, AWS  
 https://github.com/joshuabecker91/googleclonewithads | www.googleclone.com  
 

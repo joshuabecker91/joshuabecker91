@@ -1,11 +1,11 @@
 Hello! I'm a dedicated software engineer passionate about pioneering technology and innovation. With over a decade of professional experience, I transitioned from a finance background in NYC to immerse myself in software development.  
-
+  
 As a Software Engineering Fellow at Formation, I collaborated with top-tier engineers from tech giants like Google, Microsoft, and Airbnb, refining my expertise in data structures and algorithms. Contributing to the development of Formation's app, Recur, allowed me to tackle real-world challenges within a robust codebase, honing skills in API integration and user interface refinement.  
-
+  
 Prior to Formation, I earned my Full-Stack Software Development Certificate from Coding Dojo, specializing in Python, MERN, and Java. My GitHub showcases various projects I've passionately crafted. Currently serving as a Full Stack Software Engineer at Fathers House, I've led the creation of their web app, significantly boosting their monthly revenue through enhanced online presence.  
-
-Proficient in Python, JavaScript, React, Flask, Django, Node, Express, databases like PostgreSQL, MySQL, MongoDB, and adept at AWS, Docker, Git, APIs, NumPy, Pandas, and Postman.  
-
+  
+Skilled in Python, JavaScript, React, Flask, Django, Node, Express, and experienced with databases such as PostgreSQL, MySQL, MongoDB. Proficient in AWS, Docker, Git, APIs, NumPy, Pandas, and Postman.    
+  
 ![My Skills](https://skillicons.dev/icons?i=py,js,react,flask,django,nodejs,express,mysql,postgres,mongodb,aws,gcp,git,docker,linux)   
 
 📄 Resume: https://s3practiceboto3.s3.us-west-2.amazonaws.com/joshua_becker_resume.pdf         

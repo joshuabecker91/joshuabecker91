@@ -15,7 +15,7 @@ Skilled in Python, JavaScript, React, Flask, Django, Node, Express, and experien
 Videos and Screenshots of Projects:     
   
 
-AlphaExpert | Python, Django, React, TypeScript, JavaScript, PostgreSQL, NumPy, Pandas, Git, AWS, Docker   
+AlphaExpert | Python, Django, React, JavaScript, PostgreSQL, NumPy, Pandas, Git, AWS, Docker   
 Revolutionary SaaS fintech platform providing members with proven quantitative algorithmic trading strategies.      
 https://alphaexpert.io | Private Repo  
   

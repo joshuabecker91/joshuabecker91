@@ -71,11 +71,21 @@ Full Stack Software Engineer at Fathers House | Responsive web application (mobi
 Technologies: Python, Flask, JS, CSS, Bootstrap, HTML, API Integration, AWS EC2, Route 53  
 previous version https://github.com/joshuabecker91/fathershouse 
 
-Update: Fathers House revamp
+Fathers House (updated / revamp) | React, Node, AWS 
 Technologies: React, Node, deployed with AWS ECS, ELB, ECR using Docker
 https://github.com/joshuabecker91/fhspokane | www.fhspokane.com
 
 ![image](https://github.com/user-attachments/assets/51709599-abc5-4ab6-8176-649a3a306cc2)
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+Heart & Hand Adult Family Home | React, Node, AWS 
+Technologies: React, Node, deployed with AWS ECS, ELB, ECR using Docker
+private repo | www.heartandhandafh.com 
+
+![image](https://github.com/user-attachments/assets/954955b2-f441-4d0f-9c32-1064ee13d460)
 
 
 --------------------------------------------------------------------------------------------------------------

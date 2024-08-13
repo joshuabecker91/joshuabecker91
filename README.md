@@ -69,9 +69,13 @@ https://user-images.githubusercontent.com/98496684/190670744-3f71b52e-ced8-4e79-
 Fathers House | Python, Flask, AWS  
 Full Stack Software Engineer at Fathers House | Responsive web application (mobile friendly)  
 Technologies: Python, Flask, JS, CSS, Bootstrap, HTML, API Integration, AWS EC2, Route 53  
-https://github.com/joshuabecker91/fathershouse | www.fhspokane.com  
+previous version https://github.com/joshuabecker91/fathershouse 
 
-![image](https://user-images.githubusercontent.com/98496684/210123002-c0ec75fb-c73b-436a-851e-5a8f9325feae.png)
+Update: Fathers House revamp
+Technologies: React, Node, deployed with AWS ECS, ELB, ECR using Docker
+https://github.com/joshuabecker91/fhspokane | www.fhspokane.com
+
+![image](https://github.com/user-attachments/assets/51709599-abc5-4ab6-8176-649a3a306cc2)
 
 
 --------------------------------------------------------------------------------------------------------------
